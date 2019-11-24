@@ -42,3 +42,33 @@ Tack Mkeskil för en strålande start på säsongen
 
 ### Inbjudan MSEC 19-20
 Året MSEC med regler och allmän inbjudan för 2019-2020 hittar ni här: [Inbjudan 2019-2020](./files/MSEC-19-20.pdf)
+
+
+
+### Om Cupen
+I cupens [Inbjudan](./files/MSEC-19-20.pdf) kan du läsa allt du behöver veta om t.ex. regler, adresser till klubbar och liknande.
+
+För besiktningen:
+- [Allmänna riktlinjer för kontroll av bilar]()
+- [Tabeller med utväxling av touringbilar]()
+- [Karosslista för 21.5T]()
+
+Huvudansvarig för cupen är Andreas Gillblad med assistans av Thomas Ek
+Båda dessa nr du på: cupansvarig@mellansvenska-elbilscupen.se
+telefon till:
+Andreas: 073-542 50 55
+Thomas: 0701-96 23 46
+
+Klubbar i mellansverige:
+[AMF Årsunda](http://amfrb.se)
+[Bofors MRK](http://www.boforsmrk.se)
+[Karlstad Miniracing](http://www.kdmr.se)
+[MK Eskil](http://www.mkeskil.se)
+[Norrtälje RCK](http://www.nrck.se)
+[SMK Dala Falun](http://www.smkdala.nu/radio.asp)
+[Västerås MS](http://www.vasterasms.se)
+[Västerort RC sportklubb](http://www.vrcsk.se/)
+[Örebro RBC](http://www.orbc.se)
+[MHF-U Skarpnäck](http://www.skarpnack.nu)
+[Åtvidaberg - IRC Arena](https://www.facebook.com/ircarena)
+
