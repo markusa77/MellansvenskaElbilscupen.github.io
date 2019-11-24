@@ -1,9 +1,9 @@
 ## Nyheter
 
-### MSEC race 3 i Åtidaberg
+### MSEC race 3 i Åtvidaberg
 Vi återvänder till Åtvidaberg den 7/12 2019 för ett sista race på [IRC Arena](https://www.facebook.com/ircarena). Hoppas många kan komma och ta del av denna fantastiska anlägning som Åke och Eva har skapat.
 - [Inbjudan](https://idrottonline.se/MRCLinkoping-Bilsport)
-- [Anmälan](https://www.myrcm.ch/myrcm/main?hId[1]=bkg&dId[E]=49565&pLa=en))
+- [Anmälan](https://www.myrcm.ch/myrcm/main?hId[1]=bkg&dId[E]=49565&pLa=en)
 - [Klubbens Hemsida](https://www.facebook.com/ircarena)
 
 ### MSEC race 2 Karlstad avslutat
@@ -19,7 +19,7 @@ Få in och anmäl er på Myrcm.ch i god tid.
 Snart dags för rejs i Eskilstuna 12/10.
 Anmälan hittar ni på Myrcm.ch
 - [Inbjudan](https://drive.google.com/file/d/1_3HFGBHzxH8RNRNw0zsxZIVdGvvZQHz0/view?fbclid=IwAR2iRAZEZd0inddBPvJ1EgiuqL3DjQmqjIHC65udkmRPJY3uAUK1WVdgLfo)
-- [Klubbens hemsida](www.mkeskil.se)
+- [Klubbens hemsida](https://www.mkeskil.se)
 
 ### Året MSEC med regler och allmän inbjudan 2019-2020
 Inbjudan för 2019-2020 års cup hittar ni här: [Inbjudan 2019-2020](./files/MSEC-19-20.pdf)
