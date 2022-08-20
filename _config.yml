@@ -3,6 +3,4 @@ logo:
 description: Välkommen till Mellansvenska Elbilscupen
 show_downloads: false
 google_analytics:
-
-#theme: jekyll-theme-leap-day
-remote_theme: abhinavs/moonwalk
+theme: jekyll-theme-leap-day
