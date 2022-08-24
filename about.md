@@ -1,14 +1,14 @@
 # Om Cupen
-Mellansvenska elbilscupen startades 1983 som ett gemensamt initiativ för RC bil klubbar i melansverige att arrangera tävlingar tilsammans.
+Mellansvenska elbilscupen startades 198X som ett gemensamt initiativ för RC bil klubbar i mellansverige att arrangera tävlingar tilsammans.
 
-## Arbetsgrupp bestående av:
-Säsången 2022 - 2023 organiseras av följande
+## Arbetsgrupp:
+Säsången 2022 - 2023 organiseras av följande personer
 * Mikael Brandt (Uppsala RC)
 * Marcus Andreasson (MHF Skarpnäck)
 * Lars Andersson (Västerås MS)
 
 ## Kontakt:
-Varje tävling arangeras fristående och kontakt bör mestadels ske direkt med arrangerande klubb. Cupens arbetsgrup ansvarar för att samnaställa reglemente samt kontakta klubar för lämpliga tävlingsdatum.
+Varje tävling arangeras fristående och frågor/information bör riktas direkt till arrangerande klubb. Cupens arbetsgrup ansvarar för att samanställa reglemente och kontakta klubar för lämpliga tävlingsdatum.
 
 ## Löpande information:
 Denna hemsida uppdateras löpande med länkar till information kring tävlingar och resultat.

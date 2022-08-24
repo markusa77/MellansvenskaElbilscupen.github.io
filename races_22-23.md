@@ -1,38 +1,43 @@
-## Tävlingar
+# Tävlingar 2022 - 2023
 
-### 2022-10-08 Karlstad (race 1)
-Snart dags för årets första täving som kommer gå i Karlstad den 8:e Oktober.
-Anmäl er på [MyRcm](https://www.myrcm.ch) i god tid.
-- [Inbudan]()
-- [Klubbens hemsida](https://idrottonline.se/KarlstadMiniracingMHFUngdom-Bilsport)
+### #1 - Karlstad
+* Datum: 2022-10-08
+* Anmälan: [MyRcm](https://www.myrcm.ch)
+* Inbjudan: ----
+* Info: [Klubbens hemsida](https://idrottonline.se/KarlstadMiniracingMHFUngdom-Bilsport)
+* Resultat: ----
 
+### #2 - Karlskoga
+* Datum: 2022-11-19
+* Anmälan: [MyRcm](https://www.myrcm.ch)
+* Inbjudan: ----
+* Info: [Bofors MRK](http://www.boforsmrk.se/)
+* Resultat: ----
 
+### #3 - Falun
+* Datum: 2022-12-10
+* Anmälan: [MyRcm](https://www.myrcm.ch)
+* Inbjudan: ----
+* Info: [Klubbens Hemsida](https://idrottonline.se/SMKDalaFalun-Bilsport)
+* Resultat: ----
 
-### 2022-11-12(19) Bofors MRK (race 2)
-- [Inbudan]()
-- [Bofors MRK](http://www.boforsmrk.se/)
+### #4 - Västerort
+* Datum: 2023-01-xy
+* Anmälan: [MyRcm](https://www.myrcm.ch)
+* Inbjudan: ----
+* Info: [Klubbens hemsida](www.vrcsk.se/)
+* Resultat: ----
 
+### #5 - Lidköping
+* Datum: 2023-02-xy
+* Anmälan: [MyRcm](https://www.myrcm.ch)
+* Inbjudan: ----
+* Info: [Klubbens hemsida](https://www.lrck.se/)
+* Resultat: ----
 
-
-### 2022-12-10(17) Falun (race 3)
-- [Inbudan]()
-- [Klubbens Hemsida](https://idrottonline.se/SMKDalaFalun-Bilsport)
-
-
-
-### 2022-01-xy Västerort (race 4)
-- [Inbudan]()
-- [Klubbens hemsida](www.vrcsk.se/)
-
-
-
-### 2022-02-11(18)(25) Lidköping (race 5)
-- [Inbudan]()
-- [Klubbens hemsida](https://www.lrck.se/)
-
-
-
-### 2022-03-xy MKeskil (race 6)
-### 2022-03-xy Bofors MRK (race 6)
-- [Inbudan]()
-- [Klubbens hemsida](https://www.lrck.se/)
+### #6 - Ej beslutat
+* Datum: 2023-03-xy
+* Anmälan: ----
+* Inbjudan: ----
+* Info: ----
+* Resultat: ----
