@@ -2,9 +2,9 @@
 Mellansvenska elbilscupen startades 198X som ett gemensamt initiativ för RC bil klubbar i mellansverige att arrangera tävlingar tilsammans.
 
 ## Arbetsgrupp:
-Säsången 2022 - 2023 organiseras av följande personer
+Säsongen 2022 - 2023 organiseras av följande personer
 * Mikael Brandt (Uppsala RC)
-* Marcus Andreasson (MHF Skarpnäck)
+* Markus Andreasson (MHF Skarpnäck)
 * Lars Andersson (Västerås MS)
 
 ## Kontakt:
