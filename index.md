@@ -3,7 +3,7 @@
 Ny hemsida med tävlingsinformation för MSEC
 
 ## Senaste nytt
-__22-08-26:__ Tävlingsdatum för hösten 2022 är satta. Regerna är i stort sett samma som förra året. Vi väntar på uppdaterad karosslista för FWD klassen från [fwd-sweden](www.fwd-sweden.se). Denna bör vara färdig i början av September.
+__22-08-26:__ Tävlingsdatum för hösten 2022 är satta. Regerna är i stort sett samma som förra året. Vi väntar på uppdaterad karosslista för FWD klassen från [fwd-sweden](http://fwd-sweden.se). Denna bör vara färdig i början av September.
 
 ## Tävlingar säsongen 2022 - 2023
 * [2022-10-08 Karlstad](races_22-23.md)
