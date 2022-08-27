@@ -1,6 +1,10 @@
 # Mellansvenska Elbilscupen 2022 - 2023
 
-Ny hemsida med tävlingsinformation för MSEC
+**Årets klasser:**
+* 1:12 Track 13,5T
+* Touring Stock 13,5T
+* FWD
+* Supportklass (Vad som är populärt hos den arrangerande klubben)
 
 ## Senaste nytt
 __22-08-26:__ Tävlingsdatum för hösten 2022 är satta. Regerna är i stort sett samma som förra året. Vi väntar på uppdaterad karosslista för FWD klassen från [fwd-sweden](http://fwd-sweden.se). Denna bör vara färdig i början av September.
@@ -21,7 +25,7 @@ Info om årets MSEC med regler och allmän inbjudan hittar ni här: [Inbjudan 20
 ##### För besiktningen:
 - [Allmänna riktlinjer för kontroll av bilar]() - No Link Yet
 - [Tabeller med utväxling av touringbilar]() - No Link Yet
-- [Karosslista för FWD](./files/karosser.pdf)
+- [Karosslista för FWD](./files/karosser.pdf) _Denna lista från 2021/11/01 kommer att uppdateras innan första tävlingen_
 
 ## Om Cupen
 [Länk till mer information om cupen](about.md)
