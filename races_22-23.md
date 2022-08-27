@@ -35,7 +35,7 @@
 * Info: [Klubbens hemsida](https://www.lrck.se/)
 * Resultat: ----
 
-### #6 - Ej beslutat
+### #6 - Final (Ej beslutat)
 * Datum: 2023-03-xy
 * Anmälan: ----
 * Inbjudan: ----

@@ -1,14 +1,14 @@
 # Om Cupen
-Mellansvenska elbilscupen startades 198X som ett gemensamt initiativ för RC bil klubbar i mellansverige att arrangera tävlingar tilsammans.
+Mellansvenska elbilscupen kördes första gången hösten 1985, som ett initiativ för klubbar i mellansverige att arrangera tävlingar tilsammans. Första säsongen arrangerades tävlingar av; Hallsberg, Borlänge, Bärke, Mariestad, Nora, Karlskoga, Örebro, och Karlstad.
 
 ## Arbetsgrupp:
-Säsången 2022 - 2023 organiseras av följande personer
+Säsongen 2022 - 2023 organiseras av följande personer:
 * Mikael Brandt (Uppsala RC)
-* Marcus Andreasson (MHF Skarpnäck)
+* Markus Andreasson (MHF Skarpnäck)
 * Lars Andersson (Västerås MS)
 
 ## Kontakt:
-Varje tävling arangeras fristående och frågor/information bör riktas direkt till arrangerande klubb. Cupens arbetsgrup ansvarar för att samanställa reglemente och kontakta klubar för lämpliga tävlingsdatum.
+Varje tävling arangeras fristående och frågor/information bör riktas direkt till arrangerande klubb. Cupens arbetsgrup ansvarar för att samanställa reglemente, kontakta klubar för lämpliga tävlingsdatum samt samanställa resultaten från tävlingarna.
 
 ## Löpande information:
 Denna hemsida uppdateras löpande med länkar till information kring tävlingar och resultat.
