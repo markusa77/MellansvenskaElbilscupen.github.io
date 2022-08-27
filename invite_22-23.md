@@ -5,10 +5,10 @@ ________________________________________________________________________________
 
 ## Allmänt
 
-###### Deltagare:
+##### Deltagare:
 Förare skall ha giltig N, D-licens, eller U-intyg.
 
-###### Anmälningsavgift:
+#### Anmälningsavgift:
 Samtliga klasser 270:-. Efteranmälan kan ske i mån av plats + 50:- <br>
 (_20:- av anmälningsavgften går till cup-admin samt slutpriser_)
 
@@ -182,11 +182,11 @@ ________________________________________________________________________________
 ## 1:12 Track 13,5T:
 **Allmänt:** Körs enligt RB-T 10.0
 
-**Motorer:** Skall uppfylla av _EFRA_, _ROAR_ eller _BRCA_ listorna för 13,5T [motorer](#heading-gemensamma-regler)
+**Motorer:** Skall uppfylla av _EFRA_, _ROAR_ eller _BRCA_ listorna för 13,5T [motorer](#batterier--motorer)
 
 **Fartreglage:** Valfritt reglage med 0-timing, s.k. ”Blinky”
 
-**Batterier:** 1 cell LiPo 3,7v (Hardcase) (se allmän kommentar om [Batterier](#markdown-header-batterier))
+**Batterier:** 1 cell LiPo 3,7v (Hardcase) (se allmän kommentar om [Batterier](#batterier--motorer))
 
 **Vikt:** Minimum 730g inkl. transponder
 
