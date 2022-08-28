@@ -3,7 +3,7 @@ Mellansvenska elbilscupen kördes första gången hösten 1985, som ett initiati
 
 ## Arbetsgrupp:
 Säsongen 2022 - 2023 organiseras av följande personer:
-* Mikael Brandt (Uppsala RC)
+* Mickael Brandt (Uppsala RC)
 * Markus Andreasson (MHF Skarpnäck)
 * Lars Andersson (Västerås MS)
 
