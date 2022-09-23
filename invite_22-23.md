@@ -1,5 +1,4 @@
 # Inbjudan MSEC 2022/23.
-Denna inbjudan med reglemente är under konstruktion och smärre justeringar kan komma innan säsongen drar igång.
 
 ________________________________________________________________________________
 
@@ -124,7 +123,7 @@ ESC skall använda programvara __.V1_17k5_NoTIMING__ (Original 17500 RPM begrän
 
 **Utväxling:** Total utväxling skall vara 5.0 ( t.ex. så är 4.9 underkänd)
 
-**Batterier:** 2 celler LiPo 7,4/7.6v (Hardcase) (se allmän kommentar om [batterier](#batterier--motorer))
+**Batterier:** 2 celler LiPo 7,4/7.6V (Hardcase) (se allmän kommentar om [batterier](#batterier--motorer))
 
 **Vinge:** Originalvinge skall användas, alltså vingen som följer med karossen
 
@@ -140,7 +139,7 @@ Max 8 däck, eller 4 par/per tävling, dessa skall besiktigas in under ordinarie
 * __Minimivikt:__ 1200g (körklar inklusive transponder)
 
 **Karosser:**
-Se separat [karosslista](./files/karosser.pdf) _Denna lista från 2021/11/01 kommer att uppdateras innan första tävlingen_
+Se separat [karosslista](./files/karosser.pdf)
 
 **Förare:**
 N, D samt U-intyg. Förare med D licens och U-intyg får använda bilar/elektronik som inte ger teknisk fördel jämfört med reglementet. Detta avgörs av besiktningen vid vardera tävling.
@@ -160,7 +159,7 @@ Valfritt reglage med 0-timing, s.k. ”Blinky”
 **Utväxling:**
 Total utväxling skall vara ≥ 4.50 (t.ex. så är 4.49 underkänd)
 
-**Batterier:** 2 celler LiPo 7,4/7.6v (Hardcase) (se allmän kommentar om [batterier](#batterier--motorer))
+**Batterier:** 2 celler LiPo 7,4/7.6V (Hardcase) (se allmän kommentar om [batterier](#batterier--motorer))
 
 **Vinge:**
 Bredd max 190mm, längd max 40mm, sidoplattor max 40x25mm.
@@ -186,7 +185,7 @@ ________________________________________________________________________________
 
 **Fartreglage:** Valfritt reglage med 0-timing, s.k. ”Blinky”
 
-**Batterier:** 1 cell LiPo 3,7v (Hardcase) (se allmän kommentar om [Batterier](#batterier--motorer))
+**Batterier:** 1 cell LiPo 3,7/3,8V (Hardcase) (se allmän kommentar om [Batterier](#batterier--motorer))
 
 **Vikt:** Minimum 730g inkl. transponder
 

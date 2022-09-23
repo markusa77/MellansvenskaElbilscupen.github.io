@@ -9,6 +9,8 @@
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
+__22-09-23:__ [fwd-sweden](http://fwd-sweden.se) har medlat att mindre justeringar kommer göras kring regler under hösten. Dessa kommer att träda i kraft vid årsskiftet 2022/23. Då vi inte ännu vet vad detta är kan vi inte förhålla oss till det och kommer därför låsa de regler vi nu har för MSEC-22/23.
+
 __22-08-26:__ Tävlingsdatum för hösten 2022 är satta. Regerna är i stort sett samma som förra året. Vi väntar på uppdaterad karosslista för FWD klassen från [fwd-sweden](http://fwd-sweden.se). Denna bör vara färdig i början av September.
 
 ## Tävlingar
