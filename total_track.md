@@ -1,3 +1,4 @@
+# 1:12 Track 13,5T
 | Placering | Namn                | Klubb                     | Karlstad | TQ | Bofors | TQ | Falun | TQ | Västerort | TQ | Lidköping | TQ | Final | TQ | Total |
 | --------- | ------------------- | ------------------------- | -------- | -- | ------ | -- | ----- | -- | --------- | -- | --------- | -- | ----- | -- | ----- |
 | 1         | Alexander Andersson | Miracl                    | 50       | 2  |        |    |       |    |           |    |           |    |       |    | 52    |
