@@ -6,7 +6,7 @@
 * Datum: 2022-10-08
 * Anmälan: [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=sv&pId[E]=1&dId[E]=66472&hId[1]=com)
 * Inbjudan: [Klubbens inbjudan](https://kdmr.se/t-vlingsinfo-msec)
-* Info: [Klubbens hemsida](https://idrottonline.se/KarlstadMiniracingMHFUngdom-Bilsport) ( [FB sida](https://www.facebook.com/karlstadminiracing))
+* Info: [Klubbens hemsida](https://www.kdmr.se) ( [FB sida](https://www.facebook.com/karlstadminiracing))
 * Resultat: ----
 
 ### #2 - Karlskoga

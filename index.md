@@ -9,7 +9,7 @@
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
-__22-10-09:__ Länkar till cupsamanställning upplagda efter första racet i Karlstad
+__22-10-09:__ Resultat från första racet i Karlstad är upplaggda
 
 __22-10-03:__ På Lördag är det dags för premiär hos KarlstaDMiniRacing. Har uppdaterat länkar med klubbens inbjudan [KDMR](races_22-23.md) där ni kan hitta karta till lokalen.
 

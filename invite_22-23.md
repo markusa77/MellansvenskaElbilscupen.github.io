@@ -129,7 +129,7 @@ ESC skall använda programvara __.V1_17k5_NoTIMING__ (Original 17500 RPM begrän
 
 **Däck:**
 * Ride 1:10 Belted Tires 24mm Pre-glued with 10 Spoke Wheel - Grey (4) (RI-26073)
-* Hudy Slick Tires for FWD (47803040)
+* Hudy Slick Tires for FWD (803040)
 
 Max 8 däck, eller 4 par/per tävling, dessa skall besiktigas in under ordinarie besiktningstid. _Ingen märkning av däck från handlare behövs_
 
