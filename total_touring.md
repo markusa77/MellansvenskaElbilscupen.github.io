@@ -1,3 +1,4 @@
+# Touring Stock 13,5T
 | Placering | Namn                | Klubb                          | Karlstad | TQ | Bofors | TQ | Falun | TQ | Västerort | TQ | Lidköping | TQ | Final | TQ | Total |
 | --------- | ------------------- | ------------------------------ | -------- | -- | ------ | -- | ----- | -- | --------- | -- | --------- | -- | ----- | -- | ----- |
 | 1         | Hampus Broman       | MK Eskil                       | 50       | 2  |        |    |       |    |           |    |           |    |       |    | 52    |
