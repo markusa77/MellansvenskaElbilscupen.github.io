@@ -15,6 +15,11 @@ __22-09-23:__ [fwd-sweden](http://fwd-sweden.se) har medlat att mindre justering
 
 __22-08-26:__ Tävlingsdatum för hösten 2022 är satta. Regerna är i stort sett samma som förra året. Vi väntar på uppdaterad karosslista för FWD klassen från [fwd-sweden](http://fwd-sweden.se). Denna bör vara färdig i början av September.
 
+## Cupställning
+* [FWD](total_fwd.md)
+* [Touring Stock 13,5T](total_touring.md)
+* [1:12 Track 13,5T](total_track.md)
+
 ## Tävlingar
 * [2022-10-08 Karlstad](races_22-23.md)
 * [2022-11-19 Bofors MRK](races_22-23.md)
