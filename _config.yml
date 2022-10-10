@@ -4,4 +4,4 @@ description: Välkommen till Mellansvenska Elbilscupen
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day
-markdown: GFM
+markdown: Kramdown
