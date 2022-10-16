@@ -144,7 +144,7 @@ Max 8 däck, eller 4 par/per tävling, dessa skall besiktigas in under ordinarie
 [karosslista FWD-Sweden från: 23-01-01](./files/karosser_23_01_01.pdf) (Denna lista är aktuell för alla deltävlingar efter årskiftet)
 
 **Förare:**
-N, D samt U-intyg. Förare med D licens och U-intyg får använda bilar/elektronik som inte ger teknisk fördel jämfört med reglementet. Detta avgörs av besiktningen vid vardera tävling.
+Förare med D licens och U-intyg får använda bilar/elektronik som inte ger teknisk fördel jämfört med reglementet. Detta avgörs av besiktningen vid vardera tävling.
 
 ________________________________________________________________________________
 
