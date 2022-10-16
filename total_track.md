@@ -11,3 +11,5 @@
 | 7       | Jörgen Elwing       | MHF Skarpnäck             | 41  |     |     |     |     |       | 41  |
 | 8       | Jörgen Gustafsson   | Bofors MRK                | 40  |     |     |     |     |       | 40  |
 | 9       | Emanuel Myhrman     | Bofors MRK                | 39  |     |     |     |     |       | 39  |
+
+(*) Markerar den förare som fick två extra poäng för TQ

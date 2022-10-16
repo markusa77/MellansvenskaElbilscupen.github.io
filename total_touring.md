@@ -15,3 +15,5 @@
 | 11      | Claes Öman          | Lidköpings R/C klubb           | 37  |     |     |     |     |       | 37  |
 | 12      | Conny Nilsson       | RBN Norrköping                 | 36  |     |     |     |     |       | 36  |
 | 13      | Marc Grevler        | Skövde MK                      | 35  |     |     |     |     |       | 35  |
+
+(*) Markerar den förare som fick två extra poäng för TQ

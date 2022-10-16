@@ -1,4 +1,5 @@
 # FWD
+
 | Ranking | Namn                        | Klubb                 |  #1 |  #2 |  #3 |  #4 |  #5 | Final | Tot |
 | ------- | --------------------------- | --------------------- | --- | --- | --- | --- | --- | ----- | --- |
 | 1       | Hampus Broman               | MK Eskil              | 52* |     |     |     |     |       | 52  |
@@ -22,3 +23,5 @@
 | 19      | Mozart Öhman                | Lidköpings R/C klubb  | 29  |     |     |     |     |       | 29  |
 | 20      | Fredrik Jisbrant            | Öckerö Rc Klubb       | 28  |     |     |     |     |       | 28  |
 | 21      | Jimmy Brandström            | Skövde MK             | 27  |     |     |     |     |       | 27  |
+
+(*) Markerar den förare som fick två extra poäng för TQ
