@@ -26,7 +26,7 @@
 * Resultat: ----
 
 ### #4 - Västerort
-* Datum: 2023-01-xy
+* Datum: 2023-01-21
 * Anmälan: [MyRCM](https://www.myrcm.ch)
 * Inbjudan: ----
 * Info: [Klubbens hemsida](www.vrcsk.se/)
