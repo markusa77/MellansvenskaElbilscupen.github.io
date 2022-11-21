@@ -41,12 +41,12 @@ För allas trevnad rekommenderar MSEC, arrangerande klubbar att förbjuda aeroso
 ________________________________________________________________________________
 
 ## Tävlingsform:
-* __Heatträning__: Touring 2x5 min, 1:12 2x8 min, FWD 2x6 min. (sista heatet är obligatoriskt för att säkerställa att varvtagningsutrustning fungerar). Seedning skall genomföras innan kvalen. De tre bästa efterföljande varven i något av träningsheaten. Cupdäcken måste användas under den seedade träningen, däcken ska vara märkta av besiktningen innan start av andra träningsheatet.
+* __Heatträning__: Touring 2x5 min, 1:12 2x8 min, FWD 2x6 min. (sista träningsheatet är obligatoriskt för att säkerställa att varvtagningsutrustning fungerar). Seedning skall genomföras innan kvalen. De tre bästa efterföljande varven i något av träningsheaten. Cupdäcken måste användas under den seedade träningen, däcken ska vara märkta av besiktningen innan start av andra träningsheatet.
 
-* __Kval__: Touring 3x5min, 1:12 3x8 min, FWD 3x6min. Körs med delayed start eller rullande start, detta tas upp på förarmötet vilket format som ska köras.
+* __Kval__: Touring 3x5 min, 1:12 3x8 min, FWD 3x6 min. Körs med delayed start eller rullande start, detta tas upp på förarmötet vilket format som ska köras.
 
 * __Finaler__: Det bästa kvalificeringsresultatet av de 3 försöken anger
-startordning. Finaler Touring 3x5 min, 1:12 3x8 min, FWD 3x6min. Underfinaler körs i 3 upplagor, vid lång dag har arrangör möjlighet att begränsa till 2 underfinaler. De 2 bästa resultaten i finlerna räknas. _Alla finalstarter görs efter nedräkning med ljudsignal_.
+startordning. Finaler Touring 3x5 min, 1:12 3x8 min, FWD 3x6 min. Underfinaler körs i 3 upplagor, vid lång dag har arrangör möjlighet att begränsa till 2 underfinaler. De 2 bästa resultaten i finlerna räknas. _Alla finalstarter görs efter nedräkning med ljudsignal_.
 
 __Tävlingsformat för FWD kan belutas av varje arrangerande klubb. Antingen körs traditionellt tidskval (beskrivet ovan), eller Heatracing enligt _Team Office Cup_ formatet. Vilket format man kommer köra skall framgå av klubbens inbudan till tävlingen.__
 

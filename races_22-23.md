@@ -16,11 +16,13 @@
 * Anmälan: [MyRCM](https://www.myrcm.ch)
 * Inbjudan: [Läs här ...](./files/Bofors_MRK_inbjudan_221119.pdf)
 * Info: [Bofors MRK](http://www.boforsmrk.se/)
-* Resultat: ----
+* Resultat: [1/12 13.5T](total_track.md), [Touring 13.5T](total_touring.md), [FWD](total_fwd.md)
 
 ### #3 - Falun
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1269.75814146826!2d15.654454256241682!3d60.60629639848064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4667700dd9da9d6f%3A0xc26a6e63fd5063d4!2sSoldatv%C3%A4gen%2010%2C%20791%2040%20Falun!5e0!3m2!1ssv!2sse!4v1669021597700!5m2!1ssv!2sse" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 * Datum: 2022-12-10
-* Anmälan: [MyRCM](https://www.myrcm.ch)
+* Anmälan: [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=falun&dId[E]=67548&hId[1]=search#)
 * Inbjudan: ----
 * Info: [Klubbens Hemsida](https://idrottonline.se/SMKDalaFalun-Bilsport)
 * Resultat: ----
