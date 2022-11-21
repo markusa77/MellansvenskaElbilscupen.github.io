@@ -23,7 +23,7 @@
 
 * Datum: 2022-12-10
 * Anmälan: [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=falun&dId[E]=67548&hId[1]=search#)
-* Inbjudan: ----
+* Inbjudan: [Läs här ...](./files/INBJUDAN_TILL_MELLANSVENSKA_ELBILSCUPEN_2022-12-10.pdf)
 * Info: [Klubbens Hemsida](https://idrottonline.se/SMKDalaFalun-Bilsport)
 * Resultat: ----
 

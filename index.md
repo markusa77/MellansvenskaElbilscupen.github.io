@@ -10,6 +10,8 @@ _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en sup
 
 ## Senaste nytt
 
+__22-11-21:__ Inbjudan till deltävling [#3](races_22-23.md) i Falun är nu upplaggd. Anmälan görs via [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=falun&dId[E]=67548&hId[1]=search#).
+
 __22-11-21:__ Efter genomgång i Karskoga beslutades att ingen förändring på däcksregler komer ske under pågående säsong.
 
 __22-11-20:__ Vi vill tacka Bofors MRK för en välkänd bansträckning och ett strålande arrangemang i Karlskoga. Cupställningen är nu uppdaterad och resultaten för denna tävling hitta ni på [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=bofors&dId[E]=66903&hId[1]=search).
