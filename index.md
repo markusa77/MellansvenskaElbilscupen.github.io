@@ -25,8 +25,8 @@ __22-11-20:__ Den 26 Februari 2023 kör vi deltävling #5 i Lidköping. _Notera 
 * [2022-10-08 Karlstad](races_22-23.md)
 * [2022-11-19 Bofors MRK](races_22-23.md)
 * [2022-12-10 Falun](races_22-23.md)
-* [2023-01-xy Västerort](races_22-23.md)
-* [2023-02-xy Lidköping](races_22-23.md)
+* [2023-01-21 Västerort](races_22-23.md)
+* [2023-02-26 Lidköping](races_22-23.md)
 * [2023-03-xy Final (Ej beslutat)](races_22-23.md)
 
 ## Inbjudan & Regler

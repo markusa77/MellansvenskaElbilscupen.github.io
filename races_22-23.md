@@ -13,7 +13,7 @@
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d648.5516775799703!2d14.494025803194345!3d59.33149141411147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465c8a34e431b655%3A0x19b5b5eef58ed324!2sFlygf%C3%A4ltsv%C3%A4gen%2012%2C%20691%2037%20Karlskoga!5e1!3m2!1sen!2sse!4v1665408559386!5m2!1sen!2sse" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 * Datum: 2022-11-19
-* Anmälan: [MyRCM](https://www.myrcm.ch)
+* Anmälan: [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=bofors&dId[E]=66903&hId[1]=search)
 * Inbjudan: [Läs här ...](./files/Bofors_MRK_inbjudan_221119.pdf)
 * Info: [Bofors MRK](http://www.boforsmrk.se/)
 * Resultat: [1/12 13.5T](total_track.md), [Touring 13.5T](total_touring.md), [FWD](total_fwd.md)
@@ -28,14 +28,14 @@
 * Resultat: ----
 
 ### #4 - Västerort
-* Datum: 2023-01-xy
+* Datum: 2023-01-21
 * Anmälan: [MyRCM](https://www.myrcm.ch)
 * Inbjudan: ----
 * Info: [Klubbens hemsida](www.vrcsk.se/)
 * Resultat: ----
 
 ### #5 - Lidköping
-* Datum: 2023-02-xy
+* Datum: 2023-02-26
 * Anmälan: [MyRCM](https://www.myrcm.ch)
 * Inbjudan: ----
 * Info: [Klubbens hemsida](https://www.lrck.se/)

@@ -98,7 +98,7 @@ __Listor för batterier och motorer för alla klaser (FWD har dock sin spec. mot
 * [BRCA:](https://brca.org/rules-documents/18-electric-board)
 
 __Batterier, allmänna krav för LiPo:__<br>
-Endast batterier som godkänts av antingen __EFRA__, __BRCA__ eller __ROAR__ får användas vid tävlingarna. Laddningsregler enligt batterilista. Om laddström inte anges i batterilistan gäller max 1C. Batterier får endast laddas till MAX _4.20v_ för 1s och _8.40v_ för 2s.
+Endast batterier som godkänts av antingen __EFRA__, __BRCA__ eller __ROAR__ får användas vid tävlingarna. Laddningsregler enligt batterilista. Om laddström inte anges i batterilistan gäller max 1C. Batterier får endast laddas till MAX _4.20v_ för 1s och _8.40v_ för 2s. Det är inte tillåtet att använda någon form av batterivärmare för att sänka LiPo-packens inre motstånd före och under laddningsprocessen
 
 ### Däcksoppa
 Följande däcksoppor är godkända i MSEC 22/23:
@@ -121,15 +121,15 @@ ESC skall använda programvara __.V1_17k5_NoTIMING__ (Original 17500 RPM begrän
 * __Fartreglage:__ Hobbywing - _30112003_ (XeRun XR10 Justock G3)
 * __Paket:__ Hobywing - _38020321_ ( XeRun XR10 Justock G3 + Justock 3650 G2.1 17.5T)
 
-**Utväxling:** Total utväxling skall vara 5.0 ( t.ex. så är 4.9 underkänd)
+**Utväxling:** Total utväxling skall vara lägst 5.00 ( t.ex. så är 4.95 underkänd)
 
 **Batterier:** 2 celler LiPo 7,4/7.6V (Hardcase) (se allmän kommentar om [batterier](#batterier--motorer))
 
-**Vinge:** Originalvinge skall användas, alltså vingen som följer med karossen
+**Vinge:** Originalvinge skall användas, alltså vingen som följer med karossen. Vinge skall vara monterad enligt tillverkarens intention.
 
 **Däck:**
-* Ride 1:10 Belted Tires 24mm Pre-glued with 10 Spoke Wheel - Grey (4) (RI-26073)
 * Hudy Slick Tires for FWD (803040)
+* Ride 1:10 Belted Tires 24mm Pre-glued with 10 Spoke Wheel - Grey (4) (RI-26073)<br>
 
 Max 8 däck, eller 4 par/per tävling, dessa skall besiktigas in under ordinarie besiktningstid. _Ingen märkning av däck från handlare behövs_
 
@@ -142,7 +142,7 @@ Max 8 däck, eller 4 par/per tävling, dessa skall besiktigas in under ordinarie
 Se separat [karosslista](./files/karosser.pdf)
 
 **Förare:**
-N, D samt U-intyg. Förare med D licens och U-intyg får använda bilar/elektronik som inte ger teknisk fördel jämfört med reglementet. Detta avgörs av besiktningen vid vardera tävling.
+Förare med D licens och U-intyg får använda bilar/elektronik som inte ger teknisk fördel jämfört med reglementet. Detta avgörs av besiktningen vid vardera tävling.
 
 ________________________________________________________________________________
 
