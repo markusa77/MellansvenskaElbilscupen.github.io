@@ -29,8 +29,8 @@
 
 ### #4 - Västerort
 * Datum: 2023-01-21
-* Anmälan: [MyRCM](https://www.myrcm.ch)
-* Inbjudan: ----
+* Anmälan: [House of RC](https://houseofrc.com/events/900)
+* Inbjudan: [Läs här ...](./files/Inbjudan_Vasterort_MSEC4.pdf)
 * Info: [Klubbens hemsida](www.vrcsk.se/)
 * Resultat: ----
 
