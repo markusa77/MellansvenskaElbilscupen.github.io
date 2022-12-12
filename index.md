@@ -27,7 +27,7 @@ __22-12-11:__ Cupställningen är nu uppdaterad efter deltävling #3 i Falun och
 * [2022-12-10 Falun](races_22-23.md)
 * [2023-01-21 Västerort](races_22-23.md#4---vsterort)
 * [2023-02-26 Lidköping](races_22-23.md##5---lidkping)
-* [2023-03-19 Eskilstuna (Final)](races_22-23.md)
+* [2023-03-19 Eskilstuna (Final)](races_22-23.md#final---eskilstuna)
 
 ## Inbjudan & Regler
 Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br>
