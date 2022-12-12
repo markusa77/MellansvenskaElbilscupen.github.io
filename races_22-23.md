@@ -25,9 +25,11 @@
 * Anmälan: [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=falun&dId[E]=67548&hId[1]=search#)
 * Inbjudan: [Läs här ...](./files/INBJUDAN_TILL_MELLANSVENSKA_ELBILSCUPEN_2022-12-10.pdf)
 * Info: [Klubbens Hemsida](https://idrottonline.se/SMKDalaFalun-Bilsport)
-* Resultat: ----
+* Resultat: [1/12 13.5T](total_track.md), [Touring 13.5T](total_touring.md), [FWD](total_fwd.md)
 
 ### #4 - Västerort
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d678.2526149575054!2d17.857532190348262!3d59.37532754649745!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9fc6beb479a9%3A0xb7842f4a9ca109f1!2sSkatteg%C3%A5rdsv%C3%A4gen%20130%2C%20162%2050%20V%C3%A4llingby!5e0!3m2!1ssv!2sse!4v1670862407055!5m2!1ssv!2sse" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 * Datum: 2023-01-21
 * Anmälan: [House of RC](https://houseofrc.com/events/900)
 * Inbjudan: [Läs här ...](./files/Inbjudan_Vasterort_MSEC4.pdf)
@@ -41,9 +43,9 @@
 * Info: [Klubbens hemsida](https://www.lrck.se/)
 * Resultat: ----
 
-### #6 - Final (Ej beslutat)
-* Datum: 2023-03-xy
-* Anmälan: ----
+### #6 - Eskilstuna (Final)
+* Datum: 2023-03-19
+* Anmälan: [MyRCM](https://www.myrcm.ch)
 * Inbjudan: ----
-* Info: ----
+* Info: [Klubbens hemsida](https://www.mkeskil.se/)
 * Resultat: ----
