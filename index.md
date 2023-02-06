@@ -10,11 +10,11 @@ _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en sup
 
 ## Senaste nytt
 
+__23-02-06: Tyvärr måste vi meddela att Lidköping har blivit av med hallen för sin deltävling den 26e februari. Det har inte gått att lösa med ny hall men hoppas vi får med Lidköping nästa år igen. För att vi fortfarande ska ha 6 deltävlingar så är vi glada att meddela att MSEC #5 kommer köras i Karlstad. Datumet ändras till lördagen den 25e februari. Vi ses i Karlstad!
+
 __22-12-12:__ Anmälan till deltävling #4 i Västerort finns nu uppe och sker via [House Of RC](https://houseofrc.com/events/900)
 
 __22-12-11:__ Nu är det klart att finalen kommer arrangeras av MK Eskil den 19 Mars 2023. Vi återvänder till Torsharg där Jens Minne kördes de första åren.
-
-__22-12-11:__ Cupställningen är nu uppdaterad efter deltävling #3 i Falun och resultaten för denna tävling hitta ni på [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=msec&dId[E]=67548&hId[1]=search).
 
 ## Cupställning
 * [FWD](total_fwd.md)
@@ -26,7 +26,7 @@ __22-12-11:__ Cupställningen är nu uppdaterad efter deltävling #3 i Falun och
 * [2022-11-19 Bofors MRK](races_22-23.md#2---karlskoga)
 * [2022-12-10 Falun](races_22-23.md#3---falun)
 * [2023-01-21 Västerort](races_22-23.md#4---västerort)
-* [2023-02-26 Lidköping](races_22-23.md#5---lidköping)
+* [2023-02-25 Karlstad](races_22-23.md#5---karlstad)
 * [2023-03-19 Eskilstuna (Final)](races_22-23.md#final---eskilstuna)
 
 ## Inbjudan & Regler
@@ -37,6 +37,8 @@ Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br
 [Länk till mer information om cupen](about.md)
 
 ## Gamla nyheter
+
+__22-12-11:__ Cupställningen är nu uppdaterad efter deltävling #3 i Falun och resultaten för denna tävling hitta ni på [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=msec&dId[E]=67548&hId[1]=search).
 
 __22-11-21:__ Inbjudan till deltävling [#3](races_22-23.md) i Falun är nu upplaggd. Anmälan görs via [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=falun&dId[E]=67548&hId[1]=search#).
 
