@@ -10,7 +10,9 @@ _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en sup
 
 ## Senaste nytt
 
-__23-02-06: Tyvärr måste vi meddela att Lidköping har blivit av med hallen för sin deltävling den 26e februari. Det har inte gått att lösa med ny hall men hoppas vi får med Lidköping nästa år igen. För att vi fortfarande ska ha 6 deltävlingar så är vi glada att meddela att MSEC #5 kommer köras i Karlstad. Datumet ändras till lördagen den 25e februari. Vi ses i Karlstad!
+__23-02-06:__ Karlstad har meddelat att det är för få anmälda för att kunna köra tävlingen på lördag den 25e februari. Vi ses på finalen i Eskilstuna.
+
+__23-02-06:__ Tyvärr måste vi meddela att Lidköping har blivit av med hallen för sin deltävling den 26e februari. Det har inte gått att lösa med ny hall men hoppas vi får med Lidköping nästa år igen. För att vi fortfarande ska ha 6 deltävlingar så är vi glada att meddela att MSEC #5 kommer köras i Karlstad. Datumet ändras till lördagen den 25e februari. Vi ses i Karlstad!
 
 __22-12-12:__ Anmälan till deltävling #4 i Västerort finns nu uppe och sker via [House Of RC](https://houseofrc.com/events/900)
 
@@ -26,7 +28,7 @@ __22-12-11:__ Nu är det klart att finalen kommer arrangeras av MK Eskil den 19 
 * [2022-11-19 Bofors MRK](races_22-23.md#2---karlskoga)
 * [2022-12-10 Falun](races_22-23.md#3---falun)
 * [2023-01-21 Västerort](races_22-23.md#4---västerort)
-* [2023-02-25 Karlstad](races_22-23.md#5---karlstad)
+* 2023-02-25 Karlstad (INSTÄLLD)
 * [2023-03-19 Eskilstuna (Final)](races_22-23.md#final---eskilstuna)
 
 ## Inbjudan & Regler
