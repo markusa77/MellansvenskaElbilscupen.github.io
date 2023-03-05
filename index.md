@@ -10,11 +10,11 @@ _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en sup
 
 ## Senaste nytt
 
+__23-03-02:__ Det saknades regler för GT12 i inbjudan. Dessa finns nu [här](./files/PM1_MSEC_2023-03-19.pdf). Tanken är att "vanliga" 1/12:or och de brittiska GT12 är godkända, men med 1 cell och 21.5T motor.
+
 __23-03-02:__ Nu är det dags för final !! Den körs i Torsharg Hallen, Torshälla, den 19 Mars. Inbjudan från MK Eskil hittar ni [här](./files/MK_Eskil_inbjudan_finalen_MSEC_2023-03-19.pdf). Anmälan sker i vanlig ordning på [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=msec&dId[E]=69366&hId[1]=search).
 
 __23-02-21:__ Karlstad har meddelat att det är för få anmälda för att kunna köra tävlingen på lördag den 25e februari. Vi ses på finalen i Eskilstuna.
-
-__23-02-06:__ Tyvärr måste vi meddela att Lidköping har blivit av med hallen för sin deltävling den 26e februari. Det har inte gått att lösa med ny hall men hoppas vi får med Lidköping nästa år igen. För att vi fortfarande ska ha 6 deltävlingar så är vi glada att meddela att MSEC #5 kommer köras i Karlstad. Datumet ändras till lördagen den 25e februari. Vi ses i Karlstad!
 
 ## Cupställning
 * [FWD](total_fwd.md)
@@ -37,6 +37,8 @@ Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br
 [Länk till mer information om cupen](about.md)
 
 ## Gamla nyheter
+
+__23-02-06:__ Tyvärr måste vi meddela att Lidköping har blivit av med hallen för sin deltävling den 26e februari. Det har inte gått att lösa med ny hall men hoppas vi får med Lidköping nästa år igen. För att vi fortfarande ska ha 6 deltävlingar så är vi glada att meddela att MSEC #5 kommer köras i Karlstad. Datumet ändras till lördagen den 25e februari. Vi ses i Karlstad!
 
 __22-12-12:__ Anmälan till deltävling #4 i Västerort finns nu uppe och sker via [House Of RC](https://houseofrc.com/events/900)
 

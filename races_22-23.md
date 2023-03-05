@@ -50,6 +50,6 @@
 
 * Datum: 2023-03-19
 * Anmälan: [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=msec&dId[E]=69366&hId[1]=search)
-* Inbjudan: [Läs här ...](./files/MK_Eskil_inbjudan_finalen_MSEC_2023-03-19.pdf)
+* Inbjudan: [Läs här ...](./files/MK_Eskil_inbjudan_finalen_MSEC_2023-03-19.pdf), [[Regler GT12](./files/PM1_MSEC_2023-03-19.pdf)]
 * Info: [Klubbens hemsida](https://www.mkeskil.se/)
 * Resultat: ----
