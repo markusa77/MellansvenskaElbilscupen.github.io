@@ -10,6 +10,8 @@ _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en sup
 
 ## Senaste nytt
 
+__23-03-21:__ Tack till alla som kom och racade på finalen i Eskilstuna. Stort tack till MKEskil får ett toppen event med bra flow i banan. Totalen i cupen hittar ni här: [FWD](total_fwd.md), [Touring 13,5T](total_touring.md), [1:12 Track](total_track.md)
+
 __23-03-02:__ Det saknades regler för GT12 i inbjudan. Dessa finns nu [här](./files/PM1_MSEC_2023-03-19.pdf). Tanken är att "vanliga" 1/12:or och de brittiska GT12 är godkända, men med 1 cell och 21.5T motor.
 
 __23-03-02:__ Nu är det dags för final !! Den körs i Torsharg Hallen, Torshälla, den 19 Mars. Inbjudan från MK Eskil hittar ni [här](./files/MK_Eskil_inbjudan_finalen_MSEC_2023-03-19.pdf). Anmälan sker i vanlig ordning på [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=msec&dId[E]=69366&hId[1]=search).

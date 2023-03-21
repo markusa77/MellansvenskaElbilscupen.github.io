@@ -1,11 +1,14 @@
 # FWD
 
+<img src="./images/FWD_123_mod.jpeg" alt="drawing" width="400"/>
+<img src="./images/FWD_J1_mod.jpeg" alt="drawing" width="400"/>
+
 | Ranking | Namn                        | Klubb                 |  #1 |  #2 |  #3 |  #4 |  #5 | Final | Tot |
 | ------- | --------------------------- | --------------------- | --- | --- | --- | --- | --- | ----- | --- |
-| 1       | Hampus Broman               | MK Eskil              | 52* | 46  | 52* | 52* |     | 62*   | 218 |
-| 2       | Fredrik Jarl                | Woxnadalens MK        | 44  | 44  | 48  | 44  |     | 57    | 193 |
-| 3       | Fredrik Persson             | RB Norrköping         | 42  | 39  | 43  |     |     | 54    | 178 |
-| 4       | Walter Andersson (J)        | Västerås MS           | 40  | 41  | 37  | 39  |     | 52    | 172 |
+| 1       | __Hampus Broman__           | MK Eskil              | 52* | 46  | 52* | 52* |     | 62*   | 218 |
+| 2       | __Fredrik Jarl__            | Woxnadalens MK        | 44  | 44  | 48  | 44  |     | 57    | 193 |
+| 3       | __Fredrik Persson__         | RB Norrköping         | 42  | 39  | 43  |     |     | 54    | 178 |
+| 4       | __Walter Andersson (J)__    | Västerås MS           | 40  | 41  | 37  | 39  |     | 52    | 172 |
 | 5       | Pjerre "Smurfen" Gustavsson | Nyköpings Modellklubb | 38  | 35  |     | 38  |     | 51    | 162 |
 | 6       | Alexander Johansson (J)     | Skövde MK             | 48  | 52* |     | 48  |     |       | 148 |
 | 7       | Lars Andersson              | Västerås MS           | 43  | 43  | 44  | 43  |     |       | 130 |
@@ -43,4 +46,5 @@
 | 39      | Marc Grevler                | Skövde MK             |     | 30  |     |     |     |       | 30  |
 | 40      | Jimmy Brandström            | Skövde MK             | 27  |     |     |     |     |       | 27  |
 
-(*) Markerar den förare som fick två extra poäng för TQ
+(*) Markerar den förare som fick två extra poäng för TQ </br>
+(J) Markerar junior

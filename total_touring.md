@@ -1,10 +1,12 @@
 # Touring Stock 13,5T
 
+<img src="./images/Touring_123_mod.jpeg" alt="drawing" width="700"/>
+
 | Ranking | Namn                    | Klubb                      |  #1 |  #2 |  #3 |  #4 |  #5 | Final | Tot |
 | ------- | ----------------------- | -------------------------- | --- | --- | --- | --- | --- | ----- | --- |
-| 1       | Hampus Broman           | MK Eskil                   | 52* | 48  | 52* | 48  |     | 60    | 212 |
-| 2       | Per Lindqvist           | Karlstad Miniracing        | 48  | 46  | 44  |     |     | 54    | 192 |
-| 3       | Nils Arback             | MHF Skarpnäck              |     | 39  | 40  | 40  |     | 49    | 168 |
+| 1       | __Hampus Broman__           | MK Eskil                   | 52* | 48  | 52* | 48  |     | 60    | 212 |
+| 2       | __Per Lindqvist__           | Karlstad Miniracing        | 48  | 46  | 44  |     |     | 54    | 192 |
+| 3       | __Nils Arback__             | MHF Skarpnäck              |     | 39  | 40  | 40  |     | 49    | 168 |
 | 4       | Alexander Andersson     | Miracl                     |     | 52* |     | 42  |     | 59*   | 153 |
 | 5       | Alexander Johansson (J) | Skövde MK                  | 44  | 41  |     | 46  |     |       | 131 |
 | 6       | Kim Lindgren            | Borås MRK                  |     | 34  |     | 41  |     | 51    | 126 |
@@ -43,4 +45,5 @@
 | 39      | Isac Billred            | Vetlanda RRC               |     | 32  |     |     |     |       | 32  |
 | 40      | Peter Edlund            | Lidköpings R/C klubb       |     |     |     | 30  |     |       | 30  |
 
-(*) Markerar den förare som fick två extra poäng för TQ
+(*) Markerar den förare som fick två extra poäng för TQ </br>
+(J) Markerar junior
